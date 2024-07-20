@@ -2,13 +2,13 @@
 
 @keyframes animateBackground {
     0% {
-      background-color: #1bdbc2;
+      background-color: #5186bf;
     }
     50% {
-      background-color: #E0FFFF;
+      background-color: #000000;
     }
     100% {
-      background-color: #0ebbf0;
+      background-color: #c9636c;
     }
   }
   
